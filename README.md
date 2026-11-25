@@ -158,9 +158,9 @@ Security groups support the Principle of Least Privilege by helping ensure users
 
 ![Security Groups](Screenshots/Screenshots2.png)
 
-![Group Properties](Screenshots/Screenshots2a-properties.png)
+![Group Properties](Screenshots/Screenshots2a-properties.jpg)
 
-![Group Members](Screenshots/Screenshots2a-members.png)
+![Group Members](Screenshots/Screenshots2a-members.jpg)
 
 ---
 
@@ -200,7 +200,7 @@ Modern organizations should move beyond password-only authentication whenever po
 
 ### Screenshots
 
-![Authentication Methods](Screenshots/Screenshots3-auth-meth-policy.png)
+![Authentication Methods](Screenshots/Screenshots3-auth-meth-policy.jpg)
 
 ---
 
@@ -255,7 +255,7 @@ MFA helps prevent:
 
 ### Screenshots
 
-![MFA Configuration](Screenshots/Screenshots4-mfa.png)
+![MFA Configuration](Screenshots/Screenshots4-mfa.jpg)
 
 ---
 
@@ -291,7 +291,7 @@ Sign-in monitoring helps detect:
 
 ### Screenshots
 
-![Sign-In Logs](Screenshots/Screenshots5-signin.png)
+![Sign-In Logs](Screenshots/Screenshots5-signin.jpg)
 
 ---
 
